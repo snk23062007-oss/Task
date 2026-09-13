@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    
+  <body>
+      <h2>Welcome to My second page using semantics tag</h2>
+      <a href="#Home">Home</a>|<a href="#About">About</a>|
+      <a href="#Contact">Contact</a>
+      <h3>Home</h3>
+      <p>This is the <strong>home section</strong> of my first semantic HTML page.</p>
+  <h3>About</h3>
+  <p>Here you will learn about using<em>semantic tags</em> like <header>,<nav>,<main>,<section>,<article>,<footer>.
+  <br><mark>Tip:</mark> Semantic tag improves SEO and accessibility!</p>
+  <h3>Contact</h3>
+  <p>You can reach me at <a href="#demo">Nishant</a>
+  <br>&copy; 2025 My First Semantic Page</p>
+  </body>
+</html>
