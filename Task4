@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body bgcolor="skyblue"><center>
+      <h1>Food Order System</h1>
+      <pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...choose your meal</pre>
+      </center>
+      <hr color="yellow">
+      <img src="https://www.google.com/imgres?q=food%20hub%20images&imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fprojects%2F404%2Fcd3877124593415.Y3JvcCwzMTc5LDI0ODcsMTY1LDA.jpg&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fsearch%2Fprojects%2Ffood%2520hub%2520menu%2520brochure&docid=9QMuT-ROjpawlM&tbnid=ehEckhfcjSb9eM&vet=12ahUKEwi16OK60uuWAxVfk-EIHVZuHxcQnPAOegQIQRAA..i&w=404&h=316&hcb=2&ved=2ahUKEwi16OK60uuWAxVfk-EIHVZuHxcQnPAOegQIQRAA"/ align="right">
+      <ol type="a" start="27">
+          <li>Morning breakfast</li>
+          <ul type="circle">
+              <li>Poha</li>
+              <li>Drink</li>
+              <ol type="I" reversed>
+                  <li>Milk</li>
+                  <li>Tea and coffee</li>
+                  <ol type="a">
+                      <li>Tea</li>
+                      <li>Hot coffee<sub>2.0</sub></li>
+                      <li><del>Cold Coffee</del></li>
+                      <li><u>Green tea<sup>Himalayan</sup></u></li>
+
+                  </ol>
+                  <li>ColdDrink</li>
+              </ol>
+          </ul>
+          <li>Lunch</li>
+          <ul type="None">
+              <li>Dal Rice</li>
+              <li><b><i>Sabji</i></b></li>
+              <ol type="A" start="26">
+                  <li><a href="#GujaratiSabji" type="_blank">Gujarati Sabji</a> Link must be open in new window</li>
+                  <li>Punjabi sabji</li>
+            </ol>
+                  
+          </ul><li>Dinner</li>
+          <ol type="1">
+              <li><b>Burgers</b></li>
+              <li><img src="https://www.google.com/imgres?q=pizza%20images&imgurl=https%3A%2F%2Fwww.liveeatlearn.com%2Fwp-content%2Fuploads%2F2025%2F09%2FVeggie-Pizza-12.jpg&imgrefurl=https%3A%2F%2Fwww.liveeatlearn.com%2Fveggie-pizza%2F&docid=Zw7HIfWW976jBM&tbnid=CUvocgr85PwOOM&vet=12ahUKEwji2ZHT0-uWAxXWkuEIHXMrGGwQnPAOegQIMhAA..i&w=1200&h=1508&hcb=2&ved=2ahUKEwji2ZHT0-uWAxXWkuEIHXMrGGwQnPAOegQIMhAA" height="50" width="50"</li>
+          </ol>
+          <li><mark>Coming soon...</mark></li>
+      </ol>
+      <hr color="yellow">
+      <p align="right">Address: S.G Highway
+      <br>Ahmedabad</p>
+  </body>
+</html>
