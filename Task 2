@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    
+    <head><meta charset="UTF-8"/></head>
   <body>
       <h2>Welcome to My second page using semantics tag</h2>
       <a href="#Home">Home</a>|<a href="#About">About</a>|
