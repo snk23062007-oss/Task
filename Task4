@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Hello, World!</title>
-    <link rel="stylesheet" href="styles.css" />
+    <meta charset="UTF-8"/>
   </head>
   <body bgcolor="skyblue"><center>
       <h1>Food Order System</h1>
