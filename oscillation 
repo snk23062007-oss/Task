@@ -1,0 +1,84 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bouncing ball animation</title>
+    <style>
+    .container{
+        width:50px;
+            height: 50px;
+            position: absolute;
+            top: 0px;
+            border-radius:50% ;
+            background-color:red;
+    }
+                
+        
+.ball1
+{
+            animation: bounce 1s linear alternate infinite;
+        }
+         .ball2{
+            left:59px;
+            animation: bounce 1s linear 0.25s alternate infinite;
+        }
+.ball3{
+            left:109px;
+            animation: bounce 1s linear 0.5s alternate infinite;
+        }
+        .ball4{
+            left:159px;
+            animation: bounce 1s linear 0.75s alternate infinite;
+        }
+        .ball5{
+            left:209px;
+            animation: bounce 1s linear 1s alternate infinite;
+        }
+        .ball6{
+            left:259px;
+            animation: bounce 1s linear 1.25s alternate infinite;
+        }
+         .ball7{
+            left:309px;
+            animation: bounce 1s linear 1.5s alternate infinite;
+        }
+.ball8{
+            left:359px;
+            animation: bounce 1s linear 1.75s alternate infinite;
+        }
+        .ball9{
+            left:409px;
+            animation: bounce 1s linear 2s alternate infinite;
+        }
+        .ball10{
+            left:459px;
+            animation: bounce 1s linear 2.25s alternate infinite;
+        }
+        
+        @keyframes bounce {
+            0%{
+                transform: translateY(0px);
+            }
+            100%{
+                transform: translateY(75px);
+            }
+        }
+        
+    </style>
+  </head>
+  <body>
+      
+      <div class="container ball1"></div>
+<div class="container ball2"></div>
+<div class="container ball3"></div>
+      <div class="container ball4"></div>
+      <div class="container ball5"></div>
+       <div class="container ball6"></div>
+<div class="container ball7"></div>
+<div class="container ball8"></div>
+      <div class="container ball9"></div>
+      <div class="container ball10"></div>
+     
+      </body>
+</html>
