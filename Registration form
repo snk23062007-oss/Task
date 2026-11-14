@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <style>
+        .formcard
+        {
+            display: block;
+            width:400px;
+height:400px;
+            border:1px solid grey;
+        font-weight:bold;
+            line-height: 25px;
+            border-radius: 15px;
+            background-color: #F9FAFC;
+            box-shadow: 0px 0px 40px grey;
+            text-align: left;
+            padding: 20px;
+            margin:20px 15px;
+            font-family: Arial,Sans-Serif;
+        }
+        #button
+        {
+            text-align: center;
+            align-content: center;
+        
+              border-radius:5px;
+              width:100px"
+
+        }
+        legend
+        {
+            text-align: center;
+            
+        }
+    </style>
+    <!--<link rel="stylesheet" href="styles.css" />-->
+ </head>
+  <body>
+      <div class='formcard'>
+      <form action="#" method="post">
+        
+          <legend>
+              Registration Form
+              </legend>
+              <br>
+              <td>
+                  <label for="uname">Username</label>
+                  <br>
+                  <input type="text" 
+                  id="uname" name="username"
+                  placeholder="Enter Username"/>
+              </td>
+              <br>
+              
+              <td>
+                  <label for="pwd">Password</label>
+                  <br>
+                  <input type="password" 
+                  id="pwd" name="password"
+                  placeholder="Enter Password"/>
+              </td>
+              <br>
+              
+              <td>
+                  <label for="email">E-mail</label>
+                  <br>
+                  <input type="email" 
+                  id="email" name="email"/>
+              </td>
+              <br>
+              
+              <td>
+                  <label for="address">Address</label>
+                  <br>
+                  <textarea
+                  id="address" name="address">
+                  </textarea>
+</td>
+<br>
+              
+              <td>
+                  <label for="dob">Date of Birth</label>
+                  <br>
+                  <input type="date" 
+                  id="dob" name="dob"/>
+              </td>
+              <br>
+              <br>
+              <div id="button">
+              <input type="submit" 
+              style="background-color:#70d925;
+              color: black;
+              border:1px solid grey;
+              border-radius:5px;
+              width:100px"/ value="Submit">
+               <input type="reset" 
+              style="background-color:#70d925;
+              border:1px solid grey;
+              border-radius:5px;
+              width:100px" value="Reset"/>
+              </div>
+              </div>
+</form>
+</body>
+</html>
